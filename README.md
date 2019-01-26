@@ -2,6 +2,10 @@
 实现一键式自动化操作（快速创建 Python 与 Shell 文件）
 
 ## 一、生成 fsh 与 fpy
+**fsh** 与 **fpy** 是两个相关的 Mac 工具。  
+**fsh**：创建 Shell 文件。  
+**fpy**：创建 Python 文件。  
+
 详细介绍，请查看 [HGFileBornTool](https://github.com/iOS2Open/HGFileBornTool/tree/master/HGFileBornTool)。
 
 ## 二、 使用效果
